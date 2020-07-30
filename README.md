@@ -4,7 +4,5 @@
 
 #cd Tkinter-GUI_Application
 
-#pip3 install -r requirements.txt
-
 #python3 main.py
 
