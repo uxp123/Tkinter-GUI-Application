@@ -1,2 +1,3 @@
 tkinter 
 requests==2.23.0
+Pillow >= 7
