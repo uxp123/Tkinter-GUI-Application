@@ -1,5 +1,7 @@
 # Tkinter-GUI-Application
 
+N:B Uses python 3.8
+
 #git clone https://github.com/uxp123/Tkinter-GUI-Application/
 
 #cd Tkinter-GUI_Application
