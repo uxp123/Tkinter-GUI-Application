@@ -4,5 +4,7 @@
 
 #cd Tkinter-GUI_Application
 
+pip3 install -r requirements.txt/ pip install tkinter, pip install requests, pip install Pillow
+
 #python3 main.py
 
