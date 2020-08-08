@@ -8,7 +8,7 @@ N:B Uses python 3
 
 pip3 install -r requirements.txt
 
-#To be safe tkinter may not work. So kindly install it from Active State(https://www.activestate.com/products/tcl/)
+#To be safe tkinter does not work. So kindly install it from Active State(https://www.activestate.com/products/tcl/)
 
 #python3 main.py
 
