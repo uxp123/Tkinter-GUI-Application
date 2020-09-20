@@ -1,6 +1,6 @@
 # Tkinter-GUI-Application
 
-# N:B Uses Python 3
+#  Uses Python 3
 
 ### `git clone https://github.com/uxp123/Tkinter-GUI-Application/`
 
